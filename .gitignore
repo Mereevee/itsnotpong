@@ -1,0 +1,6 @@
+*.exe
+*.js
+*.html
+!shell.html
+*.data
+*.wasm
